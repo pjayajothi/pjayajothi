@@ -47,5 +47,4 @@ This is my way of tracking my progress on various personal projects to practice 
 
 </div>
 
-## Projects
 
