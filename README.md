@@ -23,6 +23,7 @@ This is my way of tracking my progress on various personal projects to practice 
 
 ### Network
 <div>
+    <a href="https://www.netacad.com/cisco-packet-tracer"><img src="https://img.shields.io/badge/Cisco-Packet%20Tracer-034A86?style=for-the-badge&logo=cisco&logoColor=white" /></a>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
