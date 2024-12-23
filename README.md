@@ -12,7 +12,7 @@ This is my way of tracking my progress on various personal projects to practice 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| | <a href="link">Name</a>|
+|Network Simulation | <a href="https://github.com/pjayajothi/Project1/tree/main">Project 1</a>|
 | | <a href="link">Name</a>|
 | | |
 | | |
