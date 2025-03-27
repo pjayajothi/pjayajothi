@@ -39,12 +39,12 @@ This is my way of tracking my progress on various personal projects to practice 
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
 ## Certifications
 <div>
-
+<img src="https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge&logo=comptia" />
+<img src="https://img.shields.io/badge/Qualys-Vulnerability%20Management%20Foundation-red?style=for-the-badge&logo=qualys" />
 </div>
 
 
