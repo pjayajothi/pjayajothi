@@ -8,7 +8,6 @@ I graduated with a B.Sc in Management Info Systems with minors in Computer Scien
 This is my way of tracking my progress on various personal projects to practice and further my skill in basic Cyber practices
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
