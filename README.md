@@ -11,9 +11,9 @@ This is my way of tracking my progress on various personal projects to practice 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-|Network Simulation | <a href="https://github.com/pjayajothi/Project1/tree/main">Project 1</a>|
-| | <a href="link">Name</a>|
-| | |
+|Network Simulation | <a href="https://github.com/pjayajothi/Project-1/tree/main">Project 1</a>|
+|Gobuster Bruteforcing | <a href="https://github.com/pjayajothi/Project-2/tree/main">Project 2</a>|
+|CTI Investigation | <a href="https://github.com/pjayajothi/Project-3/tree/main">Project 2</a>|
 | | |
 | | |
 | | |
