@@ -27,7 +27,7 @@
 ## 📑Table of Contents
 
 ### BDA Projects
-| Skill                                         | Associated Project         |
+| Topic                                        | Associated Project         |
 |-----------------------------------------------|----------------------------|
 |Sample Case Study: Analyzing Phishing Emails to Enhance Staff Awareness | <a href="https://github.com/pjayajothi/Email-Phishing/tree/main">Email Phishing</a>|
 | | |
@@ -37,7 +37,7 @@
 | | |
 
 ### Cyber Projects
-| Skill                                         | Associated Project         |
+| Topic                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 |Simulating a wide range of network devices | <a href="https://github.com/pjayajothi/Project-1/tree/main">Network Simulation</a>|
 |Build practical threat intelligence and malware analysis | <a href="https://github.com/pjayajothi/Project-3/tree/main">CTI Investigation</a>|
