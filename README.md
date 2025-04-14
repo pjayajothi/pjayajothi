@@ -29,7 +29,7 @@
 ### BDA Projects
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| | |
+|Sample Case Study: Analyzing Phishing Emails to Enhance Staff Awareness | Email Phishing|
 | | |
 | | |
 | | |
@@ -39,8 +39,8 @@
 ### Cyber Projects
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-|Network Simulation | <a href="https://github.com/pjayajothi/Project-1/tree/main">Project 1</a>|
-|CTI Investigation | <a href="https://github.com/pjayajothi/Project-3/tree/main">Project 3</a>|
+|Network Simulation | <a href="https://github.com/pjayajothi/Project-1/tree/main">Network Simulation</a>|
+|CTI Investigation | <a href="https://github.com/pjayajothi/Project-3/tree/main">CTI Investigation</a>|
 | | |
 | | |
 | | |
