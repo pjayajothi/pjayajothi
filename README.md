@@ -39,8 +39,8 @@
 ### Cyber Projects
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-|Network Simulation | <a href="https://github.com/pjayajothi/Project-1/tree/main">Network Simulation</a>|
-|CTI Investigation | <a href="https://github.com/pjayajothi/Project-3/tree/main">CTI Investigation</a>|
+|Simulating a wide range of network devices | <a href="https://github.com/pjayajothi/Project-1/tree/main">Network Simulation</a>|
+|Build practical threat intelligence and malware analysis | <a href="https://github.com/pjayajothi/Project-3/tree/main">CTI Investigation</a>|
 | | |
 | | |
 | | |
