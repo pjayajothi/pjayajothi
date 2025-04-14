@@ -29,7 +29,7 @@
 ### BDA Projects
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-|Sample Case Study: Analyzing Phishing Emails to Enhance Staff Awareness | Email Phishing|
+|Sample Case Study: Analyzing Phishing Emails to Enhance Staff Awareness | <a href="https://github.com/pjayajothi/Email-Phishing/tree/main">Email Phishing</a>|
 | | |
 | | |
 | | |
