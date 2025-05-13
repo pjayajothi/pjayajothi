@@ -31,6 +31,7 @@
 |-----------------------------------------------|----------------------------|
 |Sample Case Study: Analyzing Phishing Emails to Enhance Staff Awareness (In-Progress) | <a href="https://github.com/pjayajothi/Email-Phishing/tree/main">Email Phishing</a>|
 |Credit Card Targeting Optimization Using Customer Segmentation | <a href="https://github.com/pjayajothi/Optimization-using-Customer-Segmentation">Optimization using Customer Segmentation</a>
+|Predict Home Prices with Python and Linear Regression | <a href ="https://github.com/pjayajothi/Linear-Regression-for-Home-Prices">Linear Regression for Home Prices</a>|
 
 
 ### Cyber Projects
